@@ -68,7 +68,7 @@
 ## About The Project
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
-This project orchestrates the deployment of a BLOAS based kubernetes cluster.
+This project orchestrates the deployment of the administrative layer in a BLOAS based kubernetes cluster.
 
 ### Built With
 
