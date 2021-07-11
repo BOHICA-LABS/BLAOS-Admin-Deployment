@@ -1,0 +1,10 @@
+/.vscode
+
+/BLAOS-Platform/.terraform
+/BLAOS-Platform/.terraform.lock.hcl
+/BLAOS-Platform/terraform.tfstate
+/BLAOS-Platform/terraform.tfstate.backup
+/BLAOS-Platform/*.tfvars
+/BLAOS-Platform/keys
+/BLAOS-Platform/configs
+/BLAOS-Platform/artifacts
