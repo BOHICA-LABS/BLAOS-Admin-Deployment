@@ -145,7 +145,7 @@ Project Link: [https://github.com/BOHICA-LABS/BLAOS-Admin-Deployment](https://gi
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-- [Joshua Maagdy](https://www.linkedin.com/in/joshuamagady/)
+- [Joshua Magady](https://www.linkedin.com/in/joshuamagady/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
