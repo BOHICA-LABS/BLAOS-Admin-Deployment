@@ -37,8 +37,6 @@ data:
             "TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305"
           ]
           [[entryPoints.https.tls.certificates]]
-          CertFile = "/ssl/tls.crt"
-          KeyFile = "/ssl/tls.key"
       [entryPoints.prometheus]
       address = ":9100"
     [ping]
